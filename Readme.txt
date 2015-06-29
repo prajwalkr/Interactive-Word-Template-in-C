@@ -1,0 +1,1 @@
+An basic, interactive MS-word Templates simulator using C language.
